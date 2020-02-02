@@ -120,6 +120,6 @@ The custom cluster builder can be referenced in an image configuration like this
 
 ```yaml
 builder:
-  name: my-custom-builder
-  kind: CustomBuilder
+  name: my-cluster-builder
+  kind: CustomClusterBuilder
 ```
